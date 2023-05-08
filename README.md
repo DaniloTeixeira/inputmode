@@ -17,4 +17,4 @@
     - email → Telcado otimizado para inserir endereço de e-mail, inclui o caractere arroba(@), o ponto(.) e o domínio .com ou .com.br será exibido de acordo com a localidade do usuário.
     - url → Teclado otimizado para uso de URLs. Pode ou não exibir a barra(/), pode exibir o histórico de acesso. Esse tipo requer que o input use o type=”url”
     
-    * *Atributo que pode ser utilizado em qualquer tag HTML, porém pode não ter nenhum efeito em algumas delas.*
+    *Atributo que pode ser utilizado em qualquer tag HTML, porém pode não ter nenhum efeito em algumas delas.*
