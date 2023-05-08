@@ -38,11 +38,10 @@ header .img-container {
 @media (max-width: 500px) {
   header .img-container {
     flex-direction: column;
-    gap: 10px;
+    margin: 0;
   }
 }
 header .img-container img {
-  max-width: 100%;
   width: 30px;
   cursor: pointer;
 }
