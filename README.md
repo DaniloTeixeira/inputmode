@@ -1,5 +1,5 @@
 - Inputmode
-    - “inputmode” é um "\*atributo global" que sugere o tipo de dado que será inserido pelo usuário no elemento selecionado, ele exibirá um teclado virtual adequado ao valor do atributo em telas que usam teclado virtual, e isso contribuirá para a melhora na UX.*
+    - “inputmode” é um \*atributo global que sugere o tipo de dado que será inserido pelo usuário no elemento selecionado, ele exibirá um teclado virtual adequado ao valor do atributo em telas que usam teclado virtual, e isso contribuirá para a melhora na UX.*
 
     \*Atributo que pode ser utilizado em qualquer tag HTML, porém pode não ter nenhum efeito em algumas delas.
     
